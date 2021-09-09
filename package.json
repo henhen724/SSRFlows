@@ -1,0 +1,16 @@
+{
+  "name": "ssrflows",
+  "version": "0.0.0",
+  "description": "This contains the flows which run on the Solid State Relay RPi.",
+  "main": "undefined",
+  "scripts": {
+    "test": "echo \"no test availible\""
+  },
+  "author": "Henry Hunt",
+  "license": "ISC",
+  "dependencies": {
+    "node-red": "^2.0.5",
+    "node-red-dashboard": "^2.30.0",
+    "node-red-node-serialport": "^0.14.1"
+  }
+}
